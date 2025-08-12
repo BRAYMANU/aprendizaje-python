@@ -1,1 +1,2 @@
-nombre = "Manuel"\nprint("Hola,", nombre) 
+nombre = "Manuel"
+print("Hola,", nombre) 
